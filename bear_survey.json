@@ -1,26 +1,9 @@
 {
   "questions": [
     {
-      "body": "What type of bear is best?",
-      "kind": "text"
-    },
-    {
-      "body": "In a scale of 1 to 10, how cute do you find koalas?",
+      "body": "Which is the best spiderman movie?",
       "kind": "numeric"
-    },
-    {
-      "body": "Do you think bears beat beets?",
-      "kind": "yes-no"
-    },
-    {
-      "body": "What's the relationship between Battlestar Galactica and bears?",
-      "kind": "text"
-    },
-    {
-      "body": "Do sloths qualify as bears?",
-      "kind": "text"
     }
-
   ],
-  "title": "About bears"
+  "title": "About spidermane sdsd"
 }
