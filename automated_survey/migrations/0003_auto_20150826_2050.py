@@ -11,7 +11,7 @@ def load_sample_survey(apps, schema_editor):
     if os.environ.get('DJANGO_SETTINGS_MODULE') == 'twilio_sample_project.settings.test':
         return
     else:
-        call_command('load_survey', 'automated_survey/tests/fixtures/bear_survey.json')
+        call_command('load_survey', 'bear_survey.json')
 
 
 class Migration(migrations.Migration):
